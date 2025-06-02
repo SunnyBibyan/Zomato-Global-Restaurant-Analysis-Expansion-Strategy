@@ -34,7 +34,7 @@ Zomato is seeking to understand **where to expand** its restaurant presence. The
 - **Cuisine Types**: Multiple traditional and modern options across regions  
 
 ---
-![image](https://github.com/user-attachments/assets/b8141ff4-efd0-437f-abc3-f28b97724906)
+![image](Dashboard_Snip.png)
 
 
 ## 🛠️ Methodology
